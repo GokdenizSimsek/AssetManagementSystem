@@ -31,5 +31,4 @@ Projenin temel mimarisinde aşağıdaki kavramlar titizlikle uygulanmıştır:
 ├── Book.h / Video.h / Podcast.h # Asset'ten türetilmiş alt sınıflar
 ├── AssetManager.h / .cpp       # Varlık havuzunu ve iş mantığını yöneten sınıf
 ├── main.cpp                    # Kullanıcı arayüzü ve menü döngüsü
-├── assets.txt                  # Örnek serileştirilmiş veri dosyası
-└── input1.txt / input2.txt     # Test için kullanılan girdi dosyaları
+└── input.txt / input1.txt / input2.txt     # Test için kullanılan girdi dosyaları
