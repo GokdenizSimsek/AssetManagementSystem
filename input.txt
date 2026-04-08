@@ -1,0 +1,9 @@
+BOOK,abc,Clean Code,Robert Martin,Robert C. Martin,464,Software Engineering
+BOOK,12,Design Patterns,Gamma,Erich Gamma,395,Software Engineering
+BOOK,13,The Hobbit,Tolkien,J.R.R. Tolkien,310,Fantasy
+
+VIDEO,14,Operating Systems Lecture,MIT,90,1080p
+VIDEO,15,Modern C++ Tutorial,CppCon,45,4K
+
+PODCAST,yedi,Lex Fridman Podcast,MIT,Lex Fridman,420,Technology
+PODCAST,18,Software Engineering Daily,SE Daily,Jeff Meyerson,850,Software Engineering

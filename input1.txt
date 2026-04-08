@@ -1,0 +1,7 @@
+BOOK,1,Nutuk,Mustafa Kemal Ataturk,Ataturk,600,History
+VIDEO,2,C++ OOP Tutorial,FreeCodeCamp,120,1080p
+PODCAST,3,Tech Talks,Global Tech,John Doe,45,Technology
+BOOK,4,The Clean Code,Robert Martin,Uncle Bob,464,Software Engineering
+VIDEO,18,Aselsan Tanitim,Aselsan,15,4K
+PODCAST,12,Science Hour,Science Daily,Dr. Smith,12,Physics
+BOOK,7,Design Patterns,,Gang of Four,395,Software Engineering
